@@ -1,0 +1,7 @@
+{
+  "chunk_index": 7,
+  "shuffle_seed": 42,
+  "chunk_fraction": 0.15,
+  "total_chunks": 7,
+  "last_chunk_trained": 6
+}
