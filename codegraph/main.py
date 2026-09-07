@@ -41,6 +41,7 @@ import os
 import sys
 
 from json_loader import analyse_all_files, repo_slug   # analyses EVERY file, writes repo_outputs/<repo>.json
+from source_loader import DEFAULT_CACHE_DIR
 
 #------------------------------------file Naming-----------------------------------
 
@@ -248,7 +249,7 @@ if not jobs and not master_folders:
         "if a matching subdirectory is found it's used directly and the\n"
         "git clone is skipped entirely; otherwise the repo is cloned from\n"
         "GitHub as usual. Defaults to "
-        + repr(os.path.expanduser("/Users/ankushpal/Desktop/repo_cache"))
+        + repr(DEFAULT_CACHE_DIR)
         + " if not given."
     )
     raise SystemExit(1)

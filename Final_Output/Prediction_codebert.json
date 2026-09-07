@@ -1,0 +1,522 @@
+[
+  {
+    "filepath": "codegraph/main.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.92,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "filepath": "Label_Classification/source_loader.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.9039,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.9039
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/json_loader.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.9035,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.9035
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/treesitter_analyzers/common.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.903,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.903
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/source_loader.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.9025,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.9025
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/graph_builder.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.902,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.902
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/treesitter_analyzers/node_ops.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8978,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8978
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/treesitter_analyzers/lang_config.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8952,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8952
+      }
+    ]
+  },
+  {
+    "filepath": "Label_Classification/infer_codebert.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8938,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8938
+      }
+    ]
+  },
+  {
+    "filepath": "Label_Classification/build_dataset.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8918,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8918
+      }
+    ]
+  },
+  {
+    "filepath": "Node_Classification/predict.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8914,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8914
+      }
+    ]
+  },
+  {
+    "filepath": "Label_Classification/pipeline.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8802,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8802
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/Flow_analyser/imports.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.877,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.877
+      }
+    ]
+  },
+  {
+    "filepath": "Label_Classification/main.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8587,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8587
+      }
+    ]
+  },
+  {
+    "filepath": "Node_Classification/model.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8571,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8571
+      }
+    ]
+  },
+  {
+    "filepath": "Node_Classification/main.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8559,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8559
+      }
+    ]
+  },
+  {
+    "filepath": "Label_Classification/merge_predictions.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8538,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8538
+      }
+    ]
+  },
+  {
+    "filepath": "Label_Classification/train_codebert.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8507,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8507
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/treesitter_analyzers/__init__.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8485,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8485
+      }
+    ]
+  },
+  {
+    "filepath": "json_filter.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8418,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8418
+      }
+    ]
+  },
+  {
+    "filepath": "Node_Classification/js_to_import.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8397,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8397
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/Flow_analyser/function_flow.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8396,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8396
+      }
+    ]
+  },
+  {
+    "filepath": "master_main.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8392,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8392
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/Flow_analyser/_common.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8382,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8382
+      }
+    ]
+  },
+  {
+    "filepath": "Node_Classification/Label_extraction.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8366,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8366
+      }
+    ]
+  },
+  {
+    "filepath": "Node_Classification/edge_label_extraction.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.835,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.835
+      }
+    ]
+  },
+  {
+    "filepath": "Node_Classification/feature_extraction.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8349,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8349
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/treesitter_analyzers/extract_repo.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8289,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8289
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/finder.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8286,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8286
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/treesitter_analyzers/data_flow_ts.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8241,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8241
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/run.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8201,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8201
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/Flow_analyser/class_flow.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.82,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.82
+      }
+    ]
+  },
+  {
+    "filepath": "Node_Classification/graph.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8183,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8183
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/_builder.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8161,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8161
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/Flow_analyser/data_flow.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.8143,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.8143
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/treesitter_analyzers/class_flow_ts.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.7985,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.7985
+      }
+    ]
+  },
+  {
+    "filepath": "Label_Classification/run.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.7937,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.7937
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/treesitter_analyzers/function_flow_ts.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.788,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.788
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/setting.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.7339,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.7339
+      }
+    ]
+  },
+  {
+    "filepath": "codegraph/Flow_analyser/__init__.py",
+    "repo_url": "https://github.com/ankush0545/code_visualise.git",
+    "predicted_label": "backend",
+    "confidence": 0.648,
+    "is_confident": true,
+    "all_labels": [
+      {
+        "label": "backend",
+        "confidence": 0.648
+      }
+    ]
+  }
+]

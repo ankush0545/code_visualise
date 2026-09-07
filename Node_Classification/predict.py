@@ -294,8 +294,8 @@ def main():
                          help="Minimum edge_exists_prob to keep in the output.")
     parser.add_argument("--type-threshold", type=float, default=0.5,
                          help="Minimum per-type prob to include in predicted_types.")
-    parser.add_argument("--top-k", type=int, default=None,
-                         help="Keep only the top-K highest edge_exists_prob predictions.")
+    parser.add_argument("--top-k", type=int, default=1000,
+                         help="Keep only the top-K highest edge_exists_prob predictions (default: 1000).")
     parser.add_argument("--max-pairs", type=int, default=500_000,
                          help="Cap on candidate pairs scored (random-sampled if "
                               "exceeded, for large repos). 0 disables the cap.")

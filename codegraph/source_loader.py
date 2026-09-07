@@ -63,8 +63,10 @@ _SKIP_DIRS = {
 # Default local cache folder to check for an already-cloned copy of a
 # repo before falling back to `git clone`. Layout is the same as
 # --master-folder: one subdirectory per repo, named after the repo.
-# Override per-run with --cache-dir/-c <path>.
-DEFAULT_CACHE_DIR = os.path.expanduser("/Users/ankushpal/Desktop/repo_cache")
+DEFAULT_CACHE_DIR = os.environ.get(
+    "CODEGRAPH_CACHE_DIR",
+    os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data_cache", "repo_cache")
+)
 
 # Temp clone directories created by load_sources() for repos that had to
 # be freshly `git clone`'d (i.e. NOT already-cached/local/master-folder

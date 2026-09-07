@@ -1,17 +1,64 @@
-.DS_Store
-.vscode/
+# ==============================================================================
+# CodeGraph AI - Git Ignore
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*$py.class
 *.pyc
 *.pyo
-*.pt
-*.pth
-*.ckpt
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Node.js & Next.js build outputs
+node_modules/
+code-graph/node_modules/
+.next/
+code-graph/.next/
+out/
+build/
+dist/
+.turbo/
+
+# Large ML model checkpoints & weights (>100MB GitHub limit)
 *.safetensors
 *.bin
 *.onnx
 *.h5
 *.keras
+*.ckpt
+
+# PyTorch weights rule: ignore large checkpoints, but track lightweight GNN weights (251KB)
+*.pt
+*.pth
+!Node_Classification/finetuned_sage_edges.pt
+
+# Caches & temporary clone data
 data_cache/
 repo_cache/
-node_modules/
+.cache/
+*.log
+
+# Operating System & IDE metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables & secrets
 .env
+.env*.local
